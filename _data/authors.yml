@@ -10,9 +10,11 @@ Name Name:
   google_plus : "Name"
 
 Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
+  name        : "Jia Gao"
+  uri         : "http://Giagao0708.github.io"
+  email       : "jfg5697@psu.edu"
+  bio         : "Bio-physics graduate student @PSU"
+  avatar      : "gao_jia.jpg"
+  twitter     : "name"
   google_plus : "Name"
+ 
