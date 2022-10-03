@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "2019 summer rotation @caltech"
+excerpt: "2019 summer Visting Undergraduate Research Programm <br/><img src='/images/2019.png'>"
 collection: portfolio
 ---
 
